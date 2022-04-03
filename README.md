@@ -61,7 +61,7 @@ The following algorithms have been implemented:
 
 7- [Reversed Spectral Hashing (ReSH)](https://ieeexplore.ieee.org/document/7920418) - See `demo_ReSH.py`
 
-Also we have proposed a new algorithm based on spectral hashing, called [Efficient Spectral Hashing (ESH)](). You can find the source code of this algorithm [here](https://github.com/sobhanhemati/Efficient-Spectral-Hashing-ESH-).
+Also we have proposed a new algorithm based on spectral hashing, called [Efficient Spectral Hashing (ESH)](https://www.sciencedirect.com/science/article/pii/S1077314222000418). You can find the source code of this algorithm [here](https://github.com/sobhanhemati/Efficient-Spectral-Hashing-ESH-).
 
 # Requirements
 You should have `scipy`, `numpy`, and `scikit-learn`
