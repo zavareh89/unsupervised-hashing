@@ -1,6 +1,5 @@
 # Unsupervised Hashing algorithms in python
 
-
 This repository contains the python implementation of some notable unsupervised hashing algorithms mostly based on spectral hashing formulation. If you found this code useful in your research, please consider citing one of the following papers:
  
 ```bib
